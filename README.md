@@ -14,16 +14,15 @@
 
 4.**회고**
 
-  4월 마지막주 금요일 
-  각자 4월 한달 동안 푼 문제를 회고하는 시간을 갖도록 하겠습니다. 
+  
 
 # 🌒WEEK1::
 
-| Date | Host | Question Link |
-| ---- | ---- | ------------- |
-|      |      |               |
-|      |      |               |
-|      |      |               |
+| Date   | Host         | Question Link                                                |
+| ------ | ------------ | ------------------------------------------------------------ |
+| 06(월) | gyoungeunbae | [Running Time of Algorithms](<https://www.hackerrank.com/challenges/runningtime/problem>) |
+|        |              |                                                              |
+|        |              |                                                              |
 
 # 👩‍💻Progress
 
