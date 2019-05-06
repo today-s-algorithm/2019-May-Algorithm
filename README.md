@@ -28,27 +28,19 @@
 
 ### godori
 
-- 
-
 ### sweetroute
-
-- 
 
 ### HeaIn
 
 ### gyoungeunbae
 
-- 
-
 ### MinjeeKang
 
 ### DiveTech  
 
-- 
-
 ### 629Hz
 
-- 
+
 
 
 
@@ -66,27 +58,19 @@
 
 ### godori
 
-- 
-
 ### sweetroute
-
-- 
 
 ### HeaIn
 
 ### gyoungeunbae
 
-- 
-
 ### MinjeeKang
 
 ### DiveTech  
 
-- 
-
 ### 629Hz
 
-- 
+
 
 # 🌔WEEK3::
 
@@ -102,25 +86,19 @@
 
 ### sweetroute
 
-- 
-
 ### HeaIn
 
 ### gyoungeunbae
-
-- 
 
 ### MinjeeKang
 
 ### DiveTech  
 
-- 
-
 ### 629Hz
 
-- 
 
-- https://github.com/629Hz/daily-algorithm/blob/master/ChocolateFeast.kt)
+
+
 
 # 🌝WEEK4::
 
@@ -145,6 +123,8 @@
 ### DiveTech  
 
 ### 629Hz
+
+
 
 **[⬆ Top](#)**
 
