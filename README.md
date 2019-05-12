@@ -21,8 +21,8 @@
 | Date   | Host         | Question Link                                                |
 | ------ | ------------ | ------------------------------------------------------------ |
 | 06(월) | gyoungeunbae | [Running Time of Algorithms](<https://www.hackerrank.com/challenges/runningtime/problem>) |
-|        |              |                                                              |
-|        |              |                                                              |
+| 08(수) | MinjeeKang   | [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets/problem?utm_source=mobile&utm_medium=mobile_browser)     |
+| 10(금) | DiveTech     | [올바른 괄호](https://programmers.co.kr/learn/courses/30/lessons/12909)                      |
 
 # 👩‍💻Progress
 
@@ -37,7 +37,7 @@
 ### MinjeeKang
 
 ### DiveTech  
-
+- [올바른 괄호](https://github.com/divetech/algorithms/blob/master/java/src/programmers/Lessons12909.java)  
 ### 629Hz
 
 
