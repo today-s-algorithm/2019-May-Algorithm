@@ -27,7 +27,7 @@
 # 👩‍💻Progress
 
 ### godori
-
+- [🥂올바른 괄호](https://www.notion.so/godori/b7468495dd444c4e8b2806f6b69b9f62)
 ### sweetroute
 
 ### HeaIn
@@ -39,10 +39,6 @@
 ### DiveTech  
 - [올바른 괄호](https://github.com/divetech/algorithms/blob/master/java/src/programmers/Lessons12909.java)  
 ### 629Hz
-
-
-
-
 
 
 
