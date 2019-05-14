@@ -46,7 +46,7 @@
 
 | Date  | Host | Question Link                                                               |
 | ----  | ---- | --------------------------------------------------------------------------- |
-| 13(월) | 629Hz|  - [Drawing Book](https://www.hackerrank.com/challenges/drawing-book/problem)|
+| 13(월) | 629Hz|   [Drawing Book](https://www.hackerrank.com/challenges/drawing-book/problem)|
 |       |      |                                                                             |
 |       |      |                                                                             |
 
