@@ -44,11 +44,11 @@
 
 # 🌓WEEK2::
 
-| Date | Host | Question Link |
-| ---- | ---- | ------------- |
-|      |      |               |
-|      |      |               |
-|      |      |               |
+| Date  | Host | Question Link                                                               |
+| ----  | ---- | --------------------------------------------------------------------------- |
+| 13(월) | 629Hz|  - [Drawing Book]https://www.hackerrank.com/challenges/drawing-book/problem |
+|       |      |                                                                             |
+|       |      |                                                                             |
 
 # 👩‍💻Progress
 
@@ -65,7 +65,6 @@
 ### DiveTech  
 
 ### 629Hz
-
 
 
 # 🌔WEEK3::
