@@ -47,7 +47,7 @@
 | Date  | Host | Question Link                                                               |
 | ----  | ---- | --------------------------------------------------------------------------- |
 | 13(월) | 629Hz|   [Drawing Book](https://www.hackerrank.com/challenges/drawing-book/problem)|
-|       |      |                                                                             |
+| 15(수) | godori| [🎃 Halloween Sale](https://www.hackerrank.com/challenges/halloween-sale/problem)                                                                            |
 |       |      |                                                                             |
 
 # 👩‍💻Progress
