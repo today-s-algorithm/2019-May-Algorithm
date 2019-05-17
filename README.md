@@ -48,7 +48,7 @@
 | ----  | ---- | --------------------------------------------------------------------------- |
 | 13(월) | 629Hz|   [Drawing Book](https://www.hackerrank.com/challenges/drawing-book/problem)|
 | 15(수) | godori| [🎃 Halloween Sale](https://www.hackerrank.com/challenges/halloween-sale/problem)                                                                            |
-|       |      |                                                                             |
+| 17(금) | HeaIn|  [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)           |
 
 # 👩‍💻Progress
 
